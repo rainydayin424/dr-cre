@@ -53,7 +53,7 @@ Most credit score services give you a number without explaining why or how to im
 
 **Score Formula:** `850 - (default_probability × 550)`
 
-## Screenshots
+## Demo
 
 ### Input Page
 ![Input Page](screenshots/input-page.png)
