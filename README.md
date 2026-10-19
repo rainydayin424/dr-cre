@@ -1,4 +1,4 @@
-# 🎓 Dr.Cre - AI-Powered Credit Score Advisor
+# Dr.Cre - AI-Powered Credit Score Advisor
 
 > Credit score prediction combining machine learning with conversational AI for personalized financial guidance.
 
